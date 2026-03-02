@@ -1,6 +1,6 @@
 # MWD — Three Dimensional Interfaces
 
-![preview](preview.jpg)
+![preview](preview.png)
 
 An experimental WebGL environment built entirely in the browser. No game engine, no external 3D assets — everything is procedural geometry, custom GLSL shaders, and physically-based materials rendered in real time via Three.js.
 
@@ -56,6 +56,4 @@ Then open `http://localhost:4326` in a browser with WebGL2 support (Chrome/Firef
 
 ---
 
-## Status
 
-Active experiment. Targeted toward WebXR — the goal is to run these scenes natively in AR glasses as the hardware becomes available.
